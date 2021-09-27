@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 30rem;
+  margin: 8px auto;
+  padding: 0 2rem;
+  background-color: rebeccapurple;
+  color: white;
+  border-radius: 12px;
+}
+
+.container h2 {
+  max-width: 10rem;
+}
+
+.container p {
+  margin: auto 0;
+  max-width: 16rem;
+}
